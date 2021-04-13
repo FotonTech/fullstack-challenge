@@ -1,21 +1,19 @@
-# Desafio Frontend
+# Desafio Fullstack
 
 Clone este repositório e comece já o nosso desafio.
 
-Use React ou RN dependendo da vaga que você estiver tentando.
+Use React ou RN dependendo da vaga que você estiver tentando e para o backend NodeJS
 
 OBS: Caso tenha alguma dúvida em relação ao teste é só nos mandar sua pergunta no canal #challenge-foton do Slack do [React Brasil](https://react-brasil-slack.herokuapp.com/).
 
 ## API
+Para a 
+Algumas sugestões:
+- ExpressJS
+- Koa
 
-Use a api do [google books](https://developers.google.com/books/docs/v1/using) para os dados da tela.
 
-```js
-const query = 'harry potter';
-fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}`);
-```
 
-OBS: Pode ser utilizado a forma de chamada de apis de sua preferencia (fetch, axios, etc).
 
 ## Design/Telas
 https://www.figma.com/file/KFElqzD983WNyvMY1SaF0c/book-app?node-id=0%3A1

@@ -6,22 +6,13 @@ Use React ou RN dependendo da vaga que você estiver tentando e para o backend N
 
 OBS: Caso tenha alguma dúvida em relação ao teste é só nos mandar sua pergunta no canal #challenge-foton do Slack do [React Brasil](https://react-brasil-slack.herokuapp.com/).
 
-## API
-Para a 
-Algumas sugestões:
-- ExpressJS
-- Koa
-
-
-
-
 ## Design/Telas
 https://www.figma.com/file/KFElqzD983WNyvMY1SaF0c/book-app?node-id=0%3A1
 
-<img width="581" alt="Screen Shot 2021-04-13 at 10 19 47" src="https://user-images.githubusercontent.com/13947203/114559257-eb55ad00-9c41-11eb-9617-4e7627cc373e.png">
+<img width="759" alt="Screen Shot 2021-04-13 at 10 42 56" src="https://user-images.githubusercontent.com/13947203/114562602-04ac2880-9c45-11eb-8f33-cc6637c475fb.png">
 
 
-O design do site consiste em 3 telas, sendo elas:
+O design do site consiste em 4 telas, sendo elas:
 
 ### Home
 
@@ -42,3 +33,10 @@ Nesta tela é **obrigatório** que o usuário tenha possibilidade de:
 Nesta tela é **obrigatório** que o usuário tenha possibilidade de:
 
 1. Ver as informações completas do livro selecionado;
+
+### Novo livro
+
+Nesta tela é **obrigatório** que o usuário tenha possibilidade de:
+
+1. Criar um livro
+2. Form tenha validações

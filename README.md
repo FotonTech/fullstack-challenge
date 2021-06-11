@@ -4,7 +4,7 @@ Clone this repository and start our challenge **right now**.
 
 Use **React** or **React Native** to develop the frontend app. In backend, use **NodeJS**.
 
-**NOTE:** If you have any questions regarding the test, just send us your question on Slack's channel **#challenge-foton** on [React Brasil](https://react-brasil-slack.herokuapp.com/).
+**NOTE:** If you have any questions regarding the test, just send us your question on our Discord's channel **#technical-challenge** on [Foton Discord](https://discord.gg/uw55aDewNf).
 
 ## Design/Screens
 https://www.figma.com/file/KFElqzD983WNyvMY1SaF0c/book-app?node-id=0%3A1

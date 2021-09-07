@@ -1,4 +1,4 @@
-# Fullstack Challenge
+# Fullstack Challenge - Leonardo Silva
 
 Clone this repository and start our challenge **right now**.
 
